@@ -5,7 +5,7 @@ Welcome to our GitHub repository for the Image Denoising project, a comprehensiv
 
 ## Introduction
 
-Led by Arash Sajjadi, in collaboration with Fatima Saberi and McKayla Boguski, this project delves into the realm of image processing with a focus on denoising techniques. Utilizing datasets from diverse fields such as agriculture, celebrity imaging, and medical diagnostics (chest X-rays), we have embarked on a methodical comparison to ascertain the effectiveness of traditional computing methods against the burgeoning field of deep learning in image denoising.
+Led by Arash Sajjadi, in collaboration with Fatima Saberi ( @mysaberi ) and McKayla Boguski, this project delves into the realm of image processing with a focus on denoising techniques. Utilizing datasets from diverse fields such as agriculture, celebrity imaging, and medical diagnostics (chest X-rays), we have embarked on a methodical comparison to ascertain the effectiveness of traditional computing methods against the burgeoning field of deep learning in image denoising.
 
 ## Purpose
 
