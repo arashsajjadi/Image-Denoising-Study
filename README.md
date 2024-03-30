@@ -1,36 +1,41 @@
 
-# Image Denoising: A Comparative Study of Classical and Deep Learning Approaches
+# Comparative Study of Image Denoising Techniques
 
-## Overview
+Welcome to our GitHub repository for the Image Denoising project, a comprehensive exploration and comparison of classical and deep learning approaches for image denoising, undertaken as a part of CMPT 819 at the University of Saskatchewan under the guidance of Professor Mark Eramian.
 
-This project is a comparative study of image denoising techniques, focusing on classical methods and deep learning approaches. We use several datasets, including the Plant Phenotyping Dataset, Chest X-Ray Images, and the Celebrity Faces Dataset. The project consists of data preparation, classical denoising, deep learning denoising, and evaluation metrics computation.
+## Introduction
 
-## Datasets
+Led by Arash Sajjadi, in collaboration with Fatima Saberi and McKayla Boguski, this project delves into the realm of image processing with a focus on denoising techniques. Utilizing datasets from diverse fields such as agriculture, celebrity imaging, and medical diagnostics (chest X-rays), we have embarked on a methodical comparison to ascertain the effectiveness of traditional computing methods against the burgeoning field of deep learning in image denoising.
 
-1. **Plant Phenotyping Dataset**: This dataset contains 810 RGB plant images along with their truth masks.
-2. **Chest X-Ray Images**: This dataset contains 5,863 grayscale images of patients' chests, both with and without Pneumonia.
-3. **Celebrity Faces Dataset**: This dataset contains a large number of celebrity faces images. (Provide more details about the dataset here)
+## Purpose
 
-## Project Structure
+The aim of this study is to dissect and understand the intricacies of image denoising, contributing to the broader knowledge within computer vision. Through our rigorous comparison, we hope to illuminate the advantages and limitations of each approach, providing a foundation for future advancements in image processing.
 
-- `docs/`: Contains the LaTeX source of the project proposal.
-- `src/`: Contains all the source code for the project.
-- `results/`: Stores the results of the computations.
-- `datasets/`: Contains the datasets used for the project.
+## Technical Process
 
-## Authors and Acknowledgement
+Our research process was bifurcated into classical methods and deep learning approaches for image denoising. The classical methods, led by McKayla Boguski, focused on established algorithms devoid of machine learning techniques. In contrast, the deep learning segment, spearheaded by Arash Sajjadi, harnessed the power of neural networks, particularly autoencoders, to adaptively learn and mitigate image noise.
 
-This project is being carried out by Fatima Saberi, Arash Sajjadi, and McKayla Boguski under the supervision of [Professor's Name], in the Department of Computer Science, University of Saskatchewan.
+The project's core involved comprehensive analyses, from PSNR and SSIM metrics to the downstream effects of denoising on image classification and segmentation tasks. Notably, Fatima Saberi's pivotal role in dataset preparation and augmentation was instrumental in enriching the training phase, enhancing the robustness of our comparative analysis.
 
-- P.h.D Students:
-- - **Arash Sajjadi**: Undertaking the *second part* of the project.
-- - **Fatima Saberi**: Responsible for the *third part* of the project.
-- Master Student:
-- - **McKayla Boguski**: Carrying out the *first part* of the project.
+## Results and Achievements
 
-Special thanks to Professor Mark Eramian for his guidance and support throughout the project.
+Our findings reveal a nuanced landscape where deep learning models, in many instances, outperform classical methods in adaptability and efficacy. However, the impact of denoising on further image processing tasks, such as segmentation, underscored the delicate balance between noise removal and the preservation of essential details critical for analysis.
 
+## Repository Structure
 
-## License
+- `src/`: Source codes for classical and deep learning denoising algorithms.
+- `data/`: Sample images from our diverse datasets.
+- `results/`: Visual and quantitative outcomes from our comparative study.
 
-This project was done under the course CMPT 819, which was held at the University of Saskatchewan under the supervision of Professor Mark Eramian.
+## Usage
+
+Inside the `src/` directory, you will find detailed instructions on how to execute the denoising algorithms and replicate our findings. We encourage further explorations and modifications of our methodologies to extend their application to new datasets or denoising challenges.
+
+## Contribution
+
+As the principal contributor, I, Arash Sajjadi, am open to sharing the codes pertaining to my segment of the project alongside the comprehensive results. We welcome contributions in any form, from code enhancements to dataset expansions. Feel free to fork this repository and share your innovations.
+
+## Acknowledgments
+
+Our heartfelt appreciation goes to Professor Mark Eramian for his invaluable guidance and support throughout this project. We are also thankful to the University of Saskatchewan's Department of Computer Science for facilitating this research. Our journey has been immensely enriched by the contributions from each team member, and we look forward to future explorations in the field of computer vision.
+
