@@ -5,7 +5,7 @@ Welcome to our GitHub repository for the Image Denoising project, a comprehensiv
 
 ## Introduction
 
-Led by Arash Sajjadi, in collaboration with Fatima Saberi ( @mysaberi ) and McKayla Boguski, this project delves into the realm of image processing with a focus on denoising techniques. Utilizing datasets from diverse fields such as agriculture, celebrity imaging, and medical diagnostics (chest X-rays), we have embarked on a methodical comparison to ascertain the effectiveness of traditional computing methods against the burgeoning field of deep learning in image denoising.
+Led by [Arash Sajjadi](https://github.com/arashsajjadi/), in collaboration with [Fatima Saberi](https://github.com/mysaberi) and McKayla Boguski, this project delves into the realm of image processing with a focus on denoising techniques. Utilizing datasets from diverse fields such as agriculture, celebrity imaging, and medical diagnostics (chest X-rays), we have embarked on a methodical comparison to ascertain the effectiveness of traditional computing methods against the burgeoning field of deep learning in image denoising.
 
 ## Purpose
 
@@ -13,9 +13,9 @@ The aim of this study is to dissect and understand the intricacies of image deno
 
 ## Technical Process
 
-Our research process was bifurcated into classical methods and deep learning approaches for image denoising. The classical methods, led by McKayla Boguski, focused on established algorithms devoid of machine learning techniques. In contrast, the deep learning segment, spearheaded by Arash Sajjadi, harnessed the power of neural networks, particularly autoencoders, to adaptively learn and mitigate image noise.
+Our research process was bifurcated into classical methods and deep learning approaches for image denoising. The classical methods, led by McKayla Boguski, focused on established algorithms devoid of machine learning techniques. In contrast, the deep learning segment, spearheaded by [Arash Sajjadi](https://github.com/arashsajjadi/), harnessed the power of neural networks, particularly autoencoders, to adaptively learn and mitigate image noise.
 
-The project's core involved comprehensive analyses, from PSNR and SSIM metrics to the downstream effects of denoising on image classification and segmentation tasks. Notably, Fatima Saberi's pivotal role in dataset preparation and augmentation was instrumental in enriching the training phase, enhancing the robustness of our comparative analysis.
+The project's core involved comprehensive analyses, from PSNR and SSIM metrics to the downstream effects of denoising on image classification and segmentation tasks. Notably, [Fatima Saberi](https://github.com/mysaberi)'s pivotal role in dataset preparation and augmentation was instrumental in enriching the training phase, enhancing the robustness of our comparative analysis.
 
 ## Results and Achievements
 
@@ -33,7 +33,7 @@ Inside the `src/` directory, you will find detailed instructions on how to execu
 
 ## Contribution
 
-As the principal contributor, I, Arash Sajjadi, am open to sharing the codes pertaining to my segment of the project alongside the comprehensive results. We welcome contributions in any form, from code enhancements to dataset expansions. Feel free to fork this repository and share your innovations.
+As the principal contributor, I, [Arash Sajjadi](https://github.com/arashsajjadi/), am open to sharing the codes pertaining to my segment of the project alongside the comprehensive results. We welcome contributions in any form, from code enhancements to dataset expansions. Feel free to fork this repository and share your innovations.
 
 ## Acknowledgments
 
