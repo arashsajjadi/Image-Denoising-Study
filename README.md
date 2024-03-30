@@ -24,8 +24,8 @@ Our findings reveal a nuanced landscape where deep learning models, in many inst
 ## Repository Structure
 
 - `src/`: Source codes for classical and deep learning denoising algorithms.
-- `data/`: Sample images from our diverse datasets.
-- `results/`: Visual and quantitative outcomes from our comparative study.
+- `datasets/`: Sample images from our diverse datasets.
+- `Report/`: Visual and quantitative outcomes from our comparative study.
 
 ## Usage
 
